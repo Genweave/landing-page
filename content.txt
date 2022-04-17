@@ -1,0 +1,23 @@
+Content for the Landing Page
+
+## header
+Mr Cat
+Chief Mischief Officer
+
+## about
+About Me
+
+Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quidem, consectetur iure amet expedita qui officia aliquam nisi, error odit cupiditate commodi dolor totam! Itaque vel, in ipsam voluptatum minima labore!
+
+Check out this website: https://www.google.com
+
+## skills
+My Skills
+
+1. Make my owner serve me food
+2. Sleep anywhere in any position
+3. Typing by walking across keyboards
+
+## footer
+A Simple Landing Page
+© Genweave 2022
